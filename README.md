@@ -50,3 +50,6 @@ Actualmente estoy aplicando los conocimientos que he adquirido hasta el momento 
 ## 📈 Estadísticas
 
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=aldors&theme=ayu)
+
+## 💻 Lenguajes
+![Top Languages](https://ghstats.dev/api/langs?username=aldors&theme=ayu&layout=horizontal_list)
