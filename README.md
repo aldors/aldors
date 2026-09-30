@@ -41,7 +41,8 @@ Estudiante de Ingeniería en Sistemas Computacionales — Michoacán, México.
 | Proyecto | Descripción | Tecnologías | Estado |
 |----------|-------------|-------------|--------|
 | **E-commerce** | Proyecto sencillo de comercio electrónico para practicar lo aprendido | MySQL, Spring Boot, Java, GitHub, Git, Postman, HTML, CSS, JavaScript | ✅ Finalizado |
-| **Deuda Cero** | Sitio web sencillo, dinámico e intuitivo para la gestión de deudas entre personas | MySQL, Spring Boot, Java, GitHub, Git, Postman, HTML, CSS, JavaScript | 🛠 En pruebas |
+| **Deuda Cero** | Sitio web sencillo, dinámico e intuitivo para la gestión de deudas entre personas | MySQL, Spring Boot, Java, GitHub, Git, Postman, HTML, CSS, JavaScript | ✅ Finalizado |
+| **Event Pass** | Sistema dinámico e intuitivo para publicación de eventos, compra y venta de boletos | MySQL, Spring Boot, Java, GitHub, Git, Postman, HTML, CSS, JavaScript | 🛠️ En desarrollo |
 
 ## 📖 Aprendizaje
 
